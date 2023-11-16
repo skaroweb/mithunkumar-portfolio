@@ -31,9 +31,9 @@ function About() {
 
           <Col lg={6} className="px-4 about-content mt-4 mt-lg-0">
             <p className="mb-0" style={{ textAlign: "justify" }}>
-              My name is Pablopicasso and I am based in Málaga, Spain. I have
-              completed my graduation in Software Engineering from The
-              University of Málaga.
+              My name is Mithun Kumar and I am based in Erode, India. I have
+              completed my graduation in Software Engineering from The Velalar
+              College of Engineering and Technology.
             </p>
 
             <q className="text-center d-block my-4">
