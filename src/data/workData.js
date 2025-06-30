@@ -103,14 +103,14 @@ let WorkData = [
     imageURL: Trypuremoringa,
   },
 
-  {
-    id: 8,
-    projectName: "Kuvings israel",
-    projectDetails:
-      "Kuvings – the choice of health lovers in over 90 countries around the world. A leading brand for smart kitchen products, designed to make healthy living more efficient, convenient and delicious. At Kuvings, we strive to develop the highest quality products – so you can enjoy wellness at every stage of your day.",
-    projectTechnologies: ["HTML", "CSS", "JavaScript", "Shopify"],
-    imageURL: Kuvingsisrael,
-  },
+  // {
+  //   id: 8,
+  //   projectName: "Kuvings israel",
+  //   projectDetails:
+  //     "Kuvings – the choice of health lovers in over 90 countries around the world. A leading brand for smart kitchen products, designed to make healthy living more efficient, convenient and delicious. At Kuvings, we strive to develop the highest quality products – so you can enjoy wellness at every stage of your day.",
+  //   projectTechnologies: ["HTML", "CSS", "JavaScript", "Shopify"],
+  //   imageURL: Kuvingsisrael,
+  // },
 
   {
     id: 9,
@@ -121,14 +121,14 @@ let WorkData = [
     imageURL: Funkeschlusseldienst,
   },
 
-  {
-    id: 10,
-    projectName: "Probit",
-    projectDetails:
-      "We specialize in training top-notch agents and agencies, and in managing insurance portfolios and financial planning for both individuals and businesses.",
-    projectTechnologies: ["HTML", "CSS", "JavaScript", "Elementor"],
-    imageURL: Probit,
-  },
+  // {
+  //   id: 10,
+  //   projectName: "Probit",
+  //   projectDetails:
+  //     "We specialize in training top-notch agents and agencies, and in managing insurance portfolios and financial planning for both individuals and businesses.",
+  //   projectTechnologies: ["HTML", "CSS", "JavaScript", "Elementor"],
+  //   imageURL: Probit,
+  // },
 
   {
     id: 11,
@@ -361,14 +361,14 @@ let WorkData = [
     imageURL: Wptopspeed,
   },
 
-  {
-    id: 36,
-    projectName: "Changfatextile",
-    projectDetails:
-      "Clients throughout the Americas, Europe, and Asia know CHANGFA as the fabric sector’s top choice for high-end digital printing of polyester, cotton, rayon, and silk featuring stylish, vivid, 3-D flower-based designs. Why? Firstly, integrity. As a long-running family founded and owned company, our promise to you is a promise kept whether it be product quality, delivery date, or service level. ",
-    projectTechnologies: ["HTML", "CSS", "jQuery", "Wordpress"],
-    imageURL: Changfatextile,
-  },
+  // {
+  //   id: 36,
+  //   projectName: "Changfatextile",
+  //   projectDetails:
+  //     "Clients throughout the Americas, Europe, and Asia know CHANGFA as the fabric sector’s top choice for high-end digital printing of polyester, cotton, rayon, and silk featuring stylish, vivid, 3-D flower-based designs. Why? Firstly, integrity. As a long-running family founded and owned company, our promise to you is a promise kept whether it be product quality, delivery date, or service level. ",
+  //   projectTechnologies: ["HTML", "CSS", "jQuery", "Wordpress"],
+  //   imageURL: Changfatextile,
+  // },
 ];
 
 export default WorkData;
