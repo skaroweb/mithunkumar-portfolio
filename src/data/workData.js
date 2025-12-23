@@ -34,6 +34,10 @@ import Changfatextile from "../assets/images/portfolio/changfatextile.png";
 import Vitaboosterpro from "../assets/images/portfolio/vitaboosterpro.png";
 import Shopbiogrowrx from "../assets/images/portfolio/shopbiogrowrx.png";
 import Psgrand from "../assets/images/portfolio/psgrand.png";
+import Padelot from "../assets/images/portfolio/padelot.png";
+import Slotsonline from "../assets/images/portfolio/slots-online.png";
+import Everpure from "../assets/images/portfolio/everpure.png";
+import Poppyshotels from "../assets/images/portfolio/poppyshotels.png";
 
 let WorkData = [
   {
@@ -44,16 +48,48 @@ let WorkData = [
     projectTechnologies: ["HTML", "CSS", "JavaScript", "NextJS"],
     imageURL: Lakmeacademy,
   },
+  {
+    id: 1,
+    projectName: "Poppyshotels",
+    projectDetails:
+      "The flagship Company of the Group, managing and operating a chain of Hotels in Tamil Nadu and Kerala. It has the distinction of being one of fastest growing chains in the sector. With a presence across the South in destinations like Madurai, Rameswaram, Kumbakonam, Ooty, kodaikanal, Pondicherry in Tamil Nadu and Anaikatti in Kerala, the Company has visionary plans across more destinations across the Country.",
+    projectTechnologies: ["HTML", "CSS", "JavaScript", "NextJS"],
+    imageURL: Poppyshotels,
+  },
 
   {
     id: 2,
-    projectName: "Ocean green",
+    projectName: "Padelot",
+    projectDetails:
+      "Padelot is an online padel shop offering a catalog with the best selection of rackets, clothing, shoes, racket bags, accessories, and much more. All the equipment you need to make your experience on the padel court the best it can be. Find top quality in all the products in our store. We have the best selection of padel brands, from Drop Shot, Akkeron, Ares, and Star Vie, to renowned companies like Adidas, Bullpadel, Babolat, and many more.",
+    projectTechnologies: ["HTML", "CSS", "JavaScript", "Woocommerce"],
+    imageURL: Padelot,
+  },
+  {
+    id: 2,
+    projectName: "Ocean Green",
     projectDetails:
       "At Ocean Green, we’re diving into a sea of creativity and fun! Founded by a quirky crew who loves all things whimsical and vibrant, we set out to create a brand that reflects our personalities—colorful, playful, and a bit unpredictable!",
     projectTechnologies: ["HTML", "CSS", "JavaScript", "Woocommerce"],
     imageURL: Oceangreen,
   },
+  {
+    id: 2,
+    projectName: "Everpure",
+    projectDetails:
+      "Everpure's journey began with a single creation - an onion and amla herbal hair oil. Meticulously researched and crafted by Shahla to address her daughters' hair fall concerns, this formulation proved to be remarkably effective. As word spread, neighbors began seeking this natural remedy for their own hair and scalp issues. The overwhelming positive feedback and repeat requests became the catalyst for Everpure's birth.",
+    projectTechnologies: ["HTML", "CSS", "JavaScript", "Shopify"],
+    imageURL: Everpure,
+  },
 
+  {
+    id: 3,
+    projectName: "Slots online",
+    projectDetails:
+      "Behind slots-online.es is a large team made up of experienced players in the world of slots and online casinos. For years, we have gathered experience and knowledge about the different operators in the Spanish market. We also know that the selection is vast. That's why we decided to create this guide with everything you need to know to become an expert player.",
+    projectTechnologies: ["HTML", "CSS", "JavaScript", "Wordpress"],
+    imageURL: Slotsonline,
+  },
   {
     id: 3,
     projectName: "Brand animators",
@@ -76,20 +112,14 @@ let WorkData = [
     projectName: "Carebox healthcare",
     projectDetails:
       "A progressive firm driven to provide pioneering healthcare solutions to enhance the patient experience with a wide range of services designed to streamline healthcare operations and a focus on efficiency, accessibility, and patient-centered care.",
-    projectTechnologies: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Elementor",
-    ],
+    projectTechnologies: ["HTML", "CSS", "JavaScript", "Elementor"],
     imageURL: Careboxhealthcare,
   },
 
   {
     id: 6,
     projectName: "Inner focus by tam",
-    projectDetails:
-      "Mental Health First Aid Training & Wellbeing Workshops",
+    projectDetails: "Mental Health First Aid Training & Wellbeing Workshops",
     projectTechnologies: ["HTML", "CSS", "JavaScript", "Elementor"],
     imageURL: Innerfocusbytam,
   },
@@ -169,8 +199,7 @@ let WorkData = [
   {
     id: 15,
     projectName: "Travoka",
-    projectDetails:
-      "Unlock the Wonders of the World With Travoka Travels",
+    projectDetails: "Unlock the Wonders of the World With Travoka Travels",
     projectTechnologies: ["HTML", "CSS", "Beaver Builder"],
     imageURL: Travoka,
   },
